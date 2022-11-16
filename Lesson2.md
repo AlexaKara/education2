@@ -260,7 +260,7 @@ git commit --amend --no-edit
 
 Передать новую ветку в удалённый репозиторий можно параметром push с флагом -u, указав имя репозитория и имя ветки.
 
-*git push -u origin new_branch*
+*git push -u origin new_branch* 
 
 
 ## 28. Удаление удалённой ветки ##
